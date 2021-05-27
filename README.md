@@ -1,4 +1,4 @@
-# HTMLTesting
-Playground repo
+<h1 align="center">HTMLTesting</h1>
+<p align="center">Playground repo</p>
 
-![](./imgs/image.svg)
+<p align="center"><img src="/imgs/image.svg"></img></p>
